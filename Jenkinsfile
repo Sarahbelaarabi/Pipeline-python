@@ -12,7 +12,7 @@
 
  
 
- sh 'python hello.py' 
+ sh '/usr/bin/python3  hello.py' 
 
 
  }
